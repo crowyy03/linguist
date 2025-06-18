@@ -9002,6 +9002,6 @@ MPL:
   - ".mpl"
   tm_scope: source.mpl
   ace_mode: text
-  codemirror_mode: text
+  codemirror_mode: mpl
   codemirror_mime_type: text/x-mpl
-  language_id:
+  language_id: 1000
